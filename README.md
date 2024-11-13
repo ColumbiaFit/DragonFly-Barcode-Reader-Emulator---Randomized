@@ -3,6 +3,7 @@ DragonFly Barcode Emulation Tester
 A comprehensive testing tool for simulating barcode inputs, designed to emulate and test different barcode behaviors in real-world scenarios.
 
 Features:
+
 Barcode List Viewer: Displays a list of all the barcodes available for testing.
 
 COM Port Selection: Allows users to select the desired COM port for communication.
